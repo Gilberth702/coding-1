@@ -35,3 +35,22 @@
 # output the opposite result meaning if two things are ture
 # we are going to get false
 # whatever the real result is, will become the opposite
+# Bookbag = 20.00
+# Pens = 10.00
+# Notebooks= 10.00
+# coffeeMug= 20.00
+# total = bookbag + pens + notebooks + coffeeMug
+# Print (total)
+# Getting the total checkout amount for items in a cart
+# which python operator would you use if you wanted to determine if a user is old enough to purchase a video game
+# Camparison operetor
+# checking if someone is old enough to buy game 
+# Age = 17 
+# AgeToBuy = 17
+# print(age > AgeToBuy)
+# logical operator 
+# we need to check if the student is in 12 AND has taken
+# coding close.
+# studentGrade = 12
+# studentHasTakenCode = True
+# print(studentGrade == 12 or StudentHasTakenCode == True)

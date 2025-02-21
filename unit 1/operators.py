@@ -54,3 +54,12 @@
 # studentGrade = 12
 # studentHasTakenCode = True
 # print(studentGrade == 12 or StudentHasTakenCode == True)
+# number= 203
+# Print(number)
+# Common types of errors
+# Name error there was an error with the name of a variable our function could be a misspelling
+# Type error There was an issue with the data type you are trying to use such as combining a string with an integer
+# Indentation Error There was an issue with how you spaced out lines in a function 
+# Index Error You are trying to access a piece of data that does not exist in a list
+# X = input 
+# X x y 

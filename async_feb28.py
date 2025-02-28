@@ -1,0 +1,13 @@
+Math Functions 
+min ()
+max ()
+x = min(5, 10, 25)
+y = max(5, 10, 25)
+print(x)
+print(y)
+input (x)
+output(y)
+username = input("Enter username:")
+print("Username is: "+ username)
+print(false)
+print(budget)
